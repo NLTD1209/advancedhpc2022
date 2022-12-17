@@ -12,5 +12,5 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: MyName
+* Name: Nguyen Le Tuan Duy - M21.ICT.004
 
